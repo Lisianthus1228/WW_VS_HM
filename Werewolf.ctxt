@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Werewolf
+comment1.params=atk\ hp
+comment1.target=Werewolf(int,\ int)
+comment2.params=
+comment2.target=int\ getInstance()
+comment3.params=instanceCount
+comment3.target=void\ setInstance(int)
+numComments=4

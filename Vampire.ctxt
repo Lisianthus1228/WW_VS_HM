@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vampire
+comment1.params=atk\ hp
+comment1.target=Vampire(int,\ int)
+comment2.params=player\ enemies\ enemyCount
+comment2.target=void\ attackPlayer(Player,\ parent_Enemy[],\ int)
+comment3.params=p
+comment3.target=void\ mesmerise(Player)
+comment4.params=
+comment4.target=int\ getInstance()
+comment5.params=instanceCount
+comment5.target=void\ setInstance(int)
+numComments=6

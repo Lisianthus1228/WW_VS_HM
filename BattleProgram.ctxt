@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BattleProgram
+comment1.params=winner
+comment1.target=void\ endBattle(int)
+comment10.params=p\ enemies
+comment10.target=void\ playGame(Player,\ parent_Enemy[])
+comment11.params=
+comment11.target=void\ battleNamer()
+comment12.params=
+comment12.target=void\ clrscr()
+comment2.params=
+comment2.target=void\ setStats()
+comment3.params=
+comment3.target=int\ displayOptions()
+comment4.params=playerCommand
+comment4.target=void\ playerAction(int)
+comment5.params=enemies
+comment5.target=void\ enemyAction(parent_Enemy[])
+comment6.params=
+comment6.target=void\ printStats()
+comment7.params=p\ enemies
+comment7.target=void\ winnerCheck(Player,\ parent_Enemy[])
+comment8.params=
+comment8.target=int\ chooseEnemy()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=13

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=parent_Enemy
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment10.params=
+comment10.target=int\ getInstance()
+comment11.params=instance
+comment11.target=void\ setInstance(int)
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=player\ enemies\ enemyCount
+comment3.target=void\ attackPlayer(Player,\ parent_Enemy[],\ int)
+comment4.params=
+comment4.target=int\ getAttack()
+comment5.params=atk
+comment5.target=void\ setAttack(int)
+comment6.params=
+comment6.target=int\ getHP()
+comment7.params=hp
+comment7.target=void\ setHP(int)
+comment8.params=
+comment8.target=int\ getMaxHP()
+comment9.params=
+comment9.target=void\ statusEffect()
+numComments=12

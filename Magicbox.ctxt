@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Magicbox
+comment1.params=enemies\ p\ enemyCount
+comment1.target=void\ useMagicbox(parent_Enemy[],\ Player,\ int)
+numComments=2
